@@ -1,0 +1,21 @@
+AutoEscalator/
+├── CMakeLists.txt
+├── src/
+│   ├── main.cpp
+│   ├── Elevator.cpp
+│   ├── ElevatorSystem.cpp
+│   ├── UserInterface.cpp
+│   ├── Constants.cpp
+│   ├── Logger.cpp
+│   └── include/
+│       ├── Constants.h
+│       ├── Passenger.h
+│       ├── Elevator.h
+│       ├── ElevatorSystem.h
+│       ├── Logger.h
+│       └── UserInterface.h
+├── data/
+│   ├── peak_hours.txt
+│   ├── normal_hours.txt
+│   └── mixed_requests.txt
+└── README.md 

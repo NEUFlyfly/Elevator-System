@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\elevator_simulation.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" qc CMakeFiles\elevator_simulation.dir/objects.a @CMakeFiles\elevator_simulation.dir\objects1.rsp
+"D:\Program Files\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\elevator_simulation.dir/objects.a -Wl,--no-whole-archive -o bin\elevator_simulation.exe -Wl,--out-implib,libelevator_simulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\elevator_simulation.dir\linkLibs.rsp

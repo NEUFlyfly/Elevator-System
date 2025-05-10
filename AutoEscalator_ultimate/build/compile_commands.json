@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\main.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\main.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\main.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\Elevator.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Elevator.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Elevator.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\Elevator.cpp.obj"
+},
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\ElevatorSystem.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\ElevatorSystem.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\ElevatorSystem.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\ElevatorSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\UserInterface.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\UserInterface.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\UserInterface.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\UserInterface.cpp.obj"
+},
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\Constants.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Constants.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Constants.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\Constants.cpp.obj"
+},
+{
+  "directory": "C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\" -IC:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/src/include -fexec-charset=UTF-8 -g -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\elevator_simulation.dir\\src\\Logger.cpp.obj -c C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Logger.cpp",
+  "file": "C:\\Users\\wys\\Desktop\\1\\电梯模拟\\AutoEscalator\\src\\Logger.cpp",
+  "output": "CMakeFiles\\elevator_simulation.dir\\src\\Logger.cpp.obj"
+}
+]

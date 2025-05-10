@@ -1,0 +1,4 @@
+C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build/CMakeFiles/elevator_simulation.dir
+C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build/CMakeFiles/copy_data.dir
+C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build/CMakeFiles/edit_cache.dir
+C:/Users/wys/Desktop/1/电梯模拟/AutoEscalator/build/CMakeFiles/rebuild_cache.dir
